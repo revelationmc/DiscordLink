@@ -1,0 +1,13 @@
+name: DiscordLink
+description: Link your Discord & Minecraft account.
+
+website: revelationmc.net
+author: SavageAvocado
+
+main: net.revelationmc.discordlink.DiscordLinkPlugin
+api-version: '1.13'
+version: ${version}
+
+commands:
+  linkdiscord:
+    description: Get a code to verify your account.

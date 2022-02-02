@@ -1,0 +1,4 @@
+api-key: ""
+
+# Should the plugin kick people who aren't whitelisted when they try to join the server?
+do-kick: true
